@@ -79,7 +79,7 @@ gem "activerecord-import", "1.0.1"
 
 # File uploading
 
-gem "carrierwave", "1.3.1"
+gem "carrierwave", "1.3.2"
 gem "fog-aws",     "3.4.0"
 gem "mini_magick", "4.9.3"
 
